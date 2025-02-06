@@ -1,10 +1,10 @@
 cozepy
-numpy==1.23.5
-Pillow==9.4.0
-pyttsx3==2.90
-pytz==2022.7.1
-requests==2.28.2
-setuptools==65.6.3
+numpy
+Pillow
+pyttsx3
+pytz
+requests
+setuptools
 six==1.16.0
 speech-recognition-python==3.8.1
 tkinter
